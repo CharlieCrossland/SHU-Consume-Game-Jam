@@ -209,7 +209,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.8081343, y: 0.20682403}
   m_EdgeRadius: 0
 --- !u!114 &1239465935
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   rb: {fileID: 0}
-  moveSpeed: 5
+  moveSpeed: 0.2
 --- !u!4 &1239465936
 Transform:
   m_ObjectHideFlags: 0
